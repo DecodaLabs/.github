@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://decodalabs.com/logo.svg" alt="Decoda" width="200" />
+  <img src="https://decodalabs.com/DECODA Logo.png" alt="Decoda" width="200" />
 </p>
 
 <h3 align="center">AI-Powered Malware Analysis</h3>
