@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://decodalabs.com">Website</a> &middot;
-  <a href="https://www.youtube.com/watch?v=h_zYf876eP0">Demo</a> &middot;
   <a href="https://x.com/DecodaLabs">X / Twitter</a>
 </p>
 
